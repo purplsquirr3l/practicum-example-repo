@@ -1,0 +1,10 @@
+<root>
+<article>
+<publication>One</publication>
+<title>Article One</title>
+</article>
+<article>
+<publication>One</publication>
+<title class="top">Article <b>Two</b></title>
+</article>
+</root>
