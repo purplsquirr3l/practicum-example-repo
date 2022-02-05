@@ -1,0 +1,8 @@
+beautifulsoup4==4.9.1
+docx2txt==0.8
+pandas==1.0.5
+pdfminer.six==20191020
+pywin32==227
+regex==2020.7.14
+wordcloud==1.7.0
+xlrd==1.2.0

@@ -22,7 +22,9 @@ For examples of how to use the code herein, please see the notebooks in the [not
 - wordcloud
 - xlrd
 
-\* This has only been tested with Python 3.6.
+The exact package versions that were used during package development can be found in [requirements.txt](./requirements.txt).
+
+\* This package has only been tested with Python 3.6.
 
 ## About this repository
 This repository - including its contents and structure - was assembled to provide an example of a repository for practicum teams. For even more detailed information, please give the repository's wiki a glance. Everything in this repository is subject to change.
