@@ -1,0 +1,15 @@
+name: text
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4=4.11.1=pyha770c72_0
+  - docx2txt=0.8=py_0
+  - pandas=1.4.2=py39h2e25243_1
+  - pdfminer=20191125=pyhd8ed1ab_1
+  - python=3.9.12=h9a09f29_1_cpython
+  - pywin32=303=py39hb82d6ee_0
+  - pywin32-ctypes=0.2.0=py39hcbf5309_1005
+  - regex=2022.4.24=py39hb82d6ee_0
+  - wordcloud=1.8.1=py39hb82d6ee_2
+  - xlrd=2.0.1=pyhd8ed1ab_3
